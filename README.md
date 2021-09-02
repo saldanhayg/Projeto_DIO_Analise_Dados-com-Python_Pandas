@@ -12,19 +12,20 @@ Neste Labs será apresentada a biblioteca Pandas, uma biblioteca Python de códi
 
 ## Assuntos abordados neste curso:
 
-✔  Python Básico<br>
-✔  Estrutura de dados<br>
-✔  Introdução a Biblioteca Pandas<br>
-✔  Trabalhando com arquivos em Excel<br>
-✔  Trabalhando com Datas<br>
-✔  Visualização de dados<br>
-✔  Análise Exploratória de dados<br>
+✔  ***Python Básico*** <br>
+✔  ***Estrutura de dados*** <br>
+✔  ***Introdução a Biblioteca Pandas*** <br>
+✔  ***Trabalhando com arquivos em Excel*** <br>
+✔  ***Trabalhando com Datas*** <br>
+✔  ***Visualização de dados*** <br>
+✔  ***Análise Exploratória de dados*** <br>
 
 
 ## Link deste Projeto  💻
 
  🎯 <a href="https://digitalinnovation.one/sign-up?ref=EDH1OJTU7E" target="_blank">Análise de dados com Python e Pandas</a>
- <br>
+<br>
+<br>
  ***Cadastre no site para ter acesso***
 
 <br>
